@@ -1,0 +1,24 @@
+{
+  "name": "docker-compose-node-redis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goncalo28/docker-compose-node-redis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goncalo28/docker-compose-node-redis/issues"
+  },
+  "homepage": "https://github.com/Goncalo28/docker-compose-node-redis#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "redis": "^3.0.2"
+  }
+}
